@@ -1,2 +1,3 @@
-## Smoke Tests
-#### A very easy way to thoroughly test API responses
+# Smoke Tests
+
+Easily write and automate tests for your API responses.
