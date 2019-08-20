@@ -2,7 +2,7 @@
   "name": "fire-backend-test",
   "author": "@exactchange",
   "description": "smoke.it().then(chill => {})",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
     "node-fetch": "2.6.0"
   },

@@ -27,7 +27,7 @@ exports.it = async (description, req, expect) => {
     return true;
   }
   else {
-    console.log('\x1b[31m<< FAIL >>\x1b[0m', res.data, '\n');
+    console.log(`\x1b[31m<< FAIL >>\x1b[33m\n\nEXPECTED: ${JSON.stringify(expect)}\n\x1b[31mRECEIVED: ${JSON.stringify(res.data)}\x1b[0m\n`);
 
     return false;
   }
