@@ -4,6 +4,6 @@
   "description": "smoke.it().then(chill => {})",
   "version": "1.0.2",
   "dependencies": {
-    "node-fetch": "2.6.0"
+    "node-fetch": "2.6.1"
   }
 }
